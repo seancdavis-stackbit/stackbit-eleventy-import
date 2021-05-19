@@ -9,7 +9,7 @@ pagesDir: src
 models:
   src:
     type: page
-    label: Src
+    label: Home Page
     fields:
       - type: string
         name: layout
