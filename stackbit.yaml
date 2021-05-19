@@ -10,8 +10,6 @@ models:
   src:
     type: page
     label: Src
-    match:
-      - index.md
     fields:
       - type: string
         name: layout
@@ -102,6 +100,8 @@ models:
                 - type: string
                   name: answer
                   label: Answer
+    singleInstance: true
+    file: ''
   src_1:
     type: page
     label: Src 1
