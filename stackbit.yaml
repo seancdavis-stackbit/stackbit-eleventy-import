@@ -104,7 +104,7 @@ models:
     file: src/index.md
   src_1:
     type: page
-    label: Src 1
+    label: Content Page
     match:
       - '*'
     exclude:
