@@ -20,7 +20,7 @@ lineup:
         twitter: "#"
         facebook: "#"
         instagram: "#"
-    - name: Speaker Name
+    - name: "Speaker #2 Name"
       position: Title / Company
       fun_fact: Fun Fact
       image: /images/speakers/speaker-02.png
