@@ -12,7 +12,7 @@ lineup:
   body: |-
     Est fugiat nisi cupidatat qui. Amet labore nostrud minim esse non adipisicing aliqua. Reprehenderit nulla labore sunt sunt aliqua velit nostrud nulla.
   speakers:
-    - name: Speaker Name
+    - name: "Speaker #1 Name"
       position: Title / Company
       fun_fact: Fun Fact
       image: /images/speakers/speaker-01.png
