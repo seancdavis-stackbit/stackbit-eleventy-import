@@ -101,7 +101,7 @@ models:
                   name: answer
                   label: Answer
     singleInstance: true
-    file: ''
+    file: src/index.md
   src_1:
     type: page
     label: Src 1
